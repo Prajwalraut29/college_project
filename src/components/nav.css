@@ -1,0 +1,29 @@
+.con{
+    display: flex;
+    
+  }
+  
+  .logo{
+      width: 20vw;
+      height: 100px;
+  }
+  
+  .Navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height:100px;
+    width: 100%;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 1px 0px;
+  }
+  
+  .title{
+      display: flex;
+      gap: 30px;
+  }
+
+  li{
+    list-style: none;
+    font-size: large;
+    font-weight: 400;
+  }
